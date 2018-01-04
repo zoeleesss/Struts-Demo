@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="commons-lang3-3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/struts-2.3.34/necessarylib/commons-lang3-3.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/struts-2.3.34/necessarylib/commons-fileupload-1.3.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/struts-2.3.34/necessarylib/commons-io-2.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/struts-2.3.34/necessarylib/commons-lang-2.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/struts-2.3.34/necessarylib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/struts-2.3.34/necessarylib/freemarker-2.3.22.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/struts-2.3.34/necessarylib/javassist-3.11.0.GA.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/struts-2.3.34/necessarylib/ognl-3.0.21.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/struts-2.3.34/necessarylib/struts2-core-2.3.34.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/struts-2.3.34/necessarylib/xwork-core-2.3.34.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

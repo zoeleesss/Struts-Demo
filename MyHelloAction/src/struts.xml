@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN"
+        "http://struts.apache.org/dtds/struts-2.1.dtd">
+
+<struts>
+
+<!--suppress Struts2ModelInspection -->
+    <package name="default" namespace="/" extends="struts-default">
+<action name="register_*" class="action.RegisterAction" method="{1}">
+    <!--suppress Struts2ModelInspection -->
+    <result name="success" type="dispatcher">/welcome.jsp</result>
+    <!--suppress Struts2ModelInspection -->
+    <result name="error" type="redirect">/register.jsp</result>
+    <!--suppress Struts2ModelInspection -->
+    <result name="input" type="plainText">/index.jsp</result>
+</action>
+</package>
+
+</struts>
